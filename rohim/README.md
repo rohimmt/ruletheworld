@@ -8,7 +8,7 @@
 ##List of Name
 
 No | Name
--- | -------------
+------------ | -------------
 1 | Rohim M
 2 | Hanif I
 3 | Fredi A
